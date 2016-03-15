@@ -3,11 +3,11 @@ Global CSS
 
 ## Table of contents
 
-* [Margins](#Margins)
-* [Paddings](#Paddings)
-* [Fonts](#Fonts)
-* [Colors](#Colors)
-* [Documentation](#Documentation)
+* [Margins](#margins)
+* [Paddings](#paddings)
+* [Fonts](#fonts)
+* [Colors](#colors)
+* [Documentation](#documentation)
 
 
 
